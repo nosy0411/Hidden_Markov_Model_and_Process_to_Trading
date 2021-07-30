@@ -11,7 +11,8 @@
 
 <br>
 
-•	Reviewed Hidden Markov Model such as Forward, Viterbi and Baum Welch Algorithm, implemented HMM for choosing the numbers of stock price states by using AIC and BIC
+•	Reviewed Hidden Markov Model such as Forward, Viterbi and Baum Welch Algorithm, implemented HMM for choosing the numbers of stock price states by using AIC and BIC  
+
 •	Estimated informed traders’ volumes by using PIN model with Hidden Markov Process approach based on volume time based candle chart about Euro Currency Futures
 
 ### Results
